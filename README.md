@@ -1,7 +1,7 @@
 # Blood-Diamonds 
 5th Project for Ironhack Data Analytics Bootcamp
 
-<img src="https://i.pinimg.com/originals/6d/f0/a5/6df0a5f7ce1c254f44b53fa2e899da36.gif/">
+<img src="https://i.pinimg.com/originals/6d/f0/a5/6df0a5f7ce1c254f44b53fa2e899da36.gif">
 
 
 ## Description 💎
@@ -27,11 +27,9 @@ The purpose of the project is to generate the most optimal machine-learning mode
   - **Step 3:** Scale features to standard
 
 
-  ### -> 🎇🎇DATASET READY TO BE TRAINED🎇🎇 <-
-  -> This is center aligned <-
+## => 🎇🎇DATASET READY TO BE TRAINED🎇🎇 
 
-
-  ## Machine Learning Models 📝
+## Machine Learning Models 📝
 
   **➡️ RandomForest**
 
@@ -40,9 +38,9 @@ The purpose of the project is to generate the most optimal machine-learning mode
   **➡️ SVC**
 
 
-  ## Documentation 📃
+## Documentation 📃
 
-The data comes from Kaggle and it is divided into
+The data comes from Kaggle and it is divided into:
 - **1.:** train.csv: to train the dataset
 - **2.:** predict.csv: to predict the price for x diamond
 
