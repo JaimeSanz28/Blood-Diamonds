@@ -27,13 +27,11 @@ The purpose of the project is to generate the most optimal machine-learning mode
   - **Step 3:** Scale features to standard
 
 
-## => 🎇🎇DATASET READY TO BE TRAINED🎇🎇 
-
 ## Machine Learning Models 📝
 
   **➡️ RandomForest**
 
-  **➡️ GridSearchCV**
+  **➡️ GradientBoost**
 
   **➡️ SVC**
 
