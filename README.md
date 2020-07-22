@@ -22,18 +22,24 @@ The purpose of the project is to generate the most optimal machine-learning mode
 
 ## Data Wrangling 📊
 
-  - **Step 1:** Convert to numeric 
-  - **Step 2:** Transform with get_dummies() function.
-  - **Step 3:** Scale features to standard
+  - **Option 1:** Convert to numeric 
+  - **Option 2:** Transform with get_dummies() function.
+  - **Option 3:** Normalize dataset
 
 
 ## Machine Learning Models 📝
 
-  **➡️ RandomForest**
+  **➡️ RandomForestRegressor**
 
-  **➡️ GradientBoost**
+  **➡️ GradientBoostingRegressor**
 
-  **➡️ SVC**
+  **➡️ ExtraTreesRegressor**
+  
+  **➡️ HistGradientBoostingRegressor**
+
+  **➡️ AdaBoostRegressor**
+
+
 
 
 ## Documentation 📃
